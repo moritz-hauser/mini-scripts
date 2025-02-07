@@ -1,5 +1,7 @@
 # mini-scripts
-Eine Reihe von kleinen Skripst, zu Übungszwecken teils in mehreren Sprachen geschrieben.
+Eine Sammlung kleiner Skripte, die praktische Alltagsaufgaben automatisieren.  
+Einige Skripte werden zu Übungszwecken in mehreren Sprachen implementiert.
 
-## clear-downloads.sh
-Fragt vor jedem Löschvorgang im Downloads Ordner um Erlaubnis.
+### **clear-downloads.sh**
+- Löscht alle Dateien aus dem Downloads Ordner
+- Fragt vor jedem Löschvorgang um Erlaubnis (y/n)
