@@ -3,10 +3,12 @@ Eine Sammlung kleiner Skripte, die praktische Alltagsaufgaben automatisieren.
 Einige Skripte werden zu Übungszwecken in mehreren Sprachen implementiert.
 
 ### **clear-downloads.sh**
-- Skript zum Aufräumen des Downloads Ordners
+- Skript zum Aufräumen des Downloads Ordners.
 - Usage: 
 ```bash 
-./clear-downloads.sh [-d || -l]
+./clear-downloads.sh
+./clear-downloads.sh -d
+./clear-downloads.sh -l
 ```
 - Flags:
 	- Ohne Flag: Fragt vor dem Löschen jeder Datei um Erlaubnis.
